@@ -1,0 +1,4 @@
+Training Masks:
+    https://drive.google.com/open?id=1s-fk9Ou1Q1brqyAAGfifPKPGwrbXk4ea
+Validation Masks: 
+    https://drive.google.com/open?id=1U2RpLg4q2rNcOSuZjZ_CMHO0-ilo2wbe
